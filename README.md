@@ -1,3 +1,5 @@
+This is a fork of [DDP-Apollo](https://github.com/Swydo/ddp-apollo). The only change is that it uses a promise polyfill, so that it works correctly in older browsers, too.
+
 # DDP-Apollo
 DDP-Apollo leverages the power of DDP for GraphQL queries and subscriptions. Meteor developers do not need an HTTP server or extra websocket connection, because DDP offers all we need and has been well tested over time.
 
