@@ -29,5 +29,8 @@
   ],
   "author": "Kristof Csillag",
   "license": "MIT",
-  "homepage": "https://github.com/csillag/ddp-apollo#readme"
+  "homepage": "https://github.com/csillag/ddp-apollo#readme",
+  "dependencies": {
+    "promise": "7.3.1"
+  }
 }

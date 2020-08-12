@@ -1,3 +1,4 @@
+const Promise = require('promise');
 const { ApolloLink, Observable, split } = require('apollo-link');
 const isSubscription = require('../common/isSubscription');
 const {
